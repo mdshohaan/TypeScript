@@ -1,5 +1,5 @@
 const test = "Hello";
-const ageName: [number, string] = [1, "ss"];
+const ageName: [number, string] = [1, "ss"]; // tuple
 
 const user: {
   company: "Programming hero"; // literal types
